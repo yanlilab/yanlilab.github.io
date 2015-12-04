@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Li Lab</title>
+    <link>/</link>
+    <description>Recent content on Yan Li Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2015 12:51:11 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Softwares</title>
+      <link>/softwares/</link>
+      <pubDate>Fri, 04 Dec 2015 12:51:11 +0800</pubDate>
+      
+      <guid>/softwares/</guid>
+      <description>
+
+&lt;h2 id=&#34;fommir:efcaec5404ccbef7e19e5de8cf480190&#34;&gt;FOMmiR&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bioinf.shenwei.me/cgi-bin/FOMmiR.cgi&#34;&gt;FOMmiR&lt;/a&gt; – MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern&lt;/p&gt;
+
+&lt;h2 id=&#34;fastcov:efcaec5404ccbef7e19e5de8cf480190&#34;&gt;fastcov&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yanlilab/fastcov&#34;&gt;fastcov&lt;/a&gt; - Fast Covariant Mutation Detector&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>/</link>
+      <pubDate>Fri, 04 Dec 2015 12:30:49 +0800</pubDate>
+      
+      <guid>/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/members/</link>
+      <pubDate>Fri, 04 Dec 2015 12:29:17 +0800</pubDate>
+      
+      <guid>/members/</guid>
+      <description>
+
+&lt;h2 id=&#34;principal-investigator:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Principal Investigator&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/yan-li-391885b&#34;&gt;Yan Li&lt;/a&gt;, Professor. Email: liyan.com(at)gmail.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;current-members:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Current Members&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Xuejiao Yang&lt;/li&gt;
+&lt;li&gt;Wancheng Liu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alumni:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Alumni&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://shenwei.me&#34;&gt;Wei Shen&lt;/a&gt;, Email: shenwei356(at)gmail.com&lt;/li&gt;
+&lt;li&gt;Ming Cheng&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research interests</title>
+      <link>/research-interests/</link>
+      <pubDate>Fri, 04 Dec 2015 12:29:06 +0800</pubDate>
+      
+      <guid>/research-interests/</guid>
+      <description>
+
+&lt;h2 id=&#34;innate-immunity:4dc6dd6727eed614dba32555ede00b70&#34;&gt;Innate Immunity&lt;/h2&gt;
+
+&lt;h2 id=&#34;hbv-evolution:4dc6dd6727eed614dba32555ede00b70&#34;&gt;HBV evolution&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Fri, 04 Dec 2015 12:26:38 +0800</pubDate>
+      
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Fri, 04 Dec 2015 12:26:21 +0800</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>
+
+&lt;h2 id=&#34;2015:480c4de99851329b51acecc000e2e84f&#34;&gt;2015&lt;/h2&gt;
+
+&lt;h2 id=&#34;2014:480c4de99851329b51acecc000e2e84f&#34;&gt;2014&lt;/h2&gt;
+
+&lt;h2 id=&#34;2013:480c4de99851329b51acecc000e2e84f&#34;&gt;2013&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Ming Chen, Hongwei Cao, Yuanfeng Zhu, Jiang Zheng, Hong Zhoub.
+&lt;strong&gt;Extraordinary GU-rich single-strand RNA identified from SARS coronavirus contributes an excessive innate immune response.&lt;/strong&gt;
+&lt;em&gt;Microbes Infect&lt;/em&gt;. 2013 Feb;15(2):88-95.
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.micinf.2012.10.008&#34;&gt;doi: 10.1016/j.micinf.2012.10.008&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2012:480c4de99851329b51acecc000e2e84f&#34;&gt;2012&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wei Shen, Ming Chen, Guo Wei, &lt;strong&gt;Yan Li&lt;/strong&gt;.
+&lt;strong&gt;MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern&lt;/strong&gt;.
+&lt;em&gt;PLoS One&lt;/em&gt;. 2012;7(10):e48236.
+&lt;a href=&#34;http://dx.plos.org/10.1371/journal.pone.0048236&#34;&gt;doi: 10.1371/journal.pone.0048236&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2011:480c4de99851329b51acecc000e2e84f&#34;&gt;2011&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Hongwei Cao, Ning Wang, Yang Xiang, Yongling Lu, Kecen Zhao, Jiang Zheng, Hong Zhou.
+&lt;strong&gt;A novel antagonist of TLR9 blocking all classes of immunostimulatory CpG-ODNs&lt;/strong&gt;.
+&lt;em&gt;Vaccine&lt;/em&gt;. 2011 Mar 3;29(11):2193-8.
+&lt;a href=&#34;http://dx.plos.org/10.1016/j.vaccine.2010.10.042&#34;&gt;doi: 10.1016/j.vaccine.2010.10.042&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 04 Dec 2015 12:25:56 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
