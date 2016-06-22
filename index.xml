@@ -17,13 +17,13 @@
       <guid>/softwares/</guid>
       <description>
 
-&lt;h2 id=&#34;fommir:efcaec5404ccbef7e19e5de8cf480190&#34;&gt;FOMmiR&lt;/h2&gt;
+&lt;h2 id=&#34;fommir&#34;&gt;FOMmiR&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://bioinf.shenwei.me/cgi-bin/FOMmiR.cgi&#34;&gt;FOMmiR&lt;/a&gt; – MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern&lt;/p&gt;
 
-&lt;h2 id=&#34;fastcov:efcaec5404ccbef7e19e5de8cf480190&#34;&gt;fastcov&lt;/h2&gt;
+&lt;h2 id=&#34;fastcov&#34;&gt;fastcov&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://yanlilab.github.io/fastcov/&#34;&gt;fastcov&lt;/a&gt; - Fast Covariant Mutation Detector&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://yanlilab.github.io/fastcov/&#34;&gt;fastcov&lt;/a&gt; - Fast Multiple Covariance Detector&lt;/p&gt;
 </description>
     </item>
     
@@ -44,20 +44,20 @@
       <guid>/members/</guid>
       <description>
 
-&lt;h2 id=&#34;principal-investigator:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Principal Investigator&lt;/h2&gt;
+&lt;h2 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/yan-li-391885b&#34;&gt;Yan Li&lt;/a&gt;, Professor. Email: liyan.com(at)gmail.com&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;current-members:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Current Members&lt;/h2&gt;
+&lt;h2 id=&#34;current-members&#34;&gt;Current Members&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Xuejiao Yang&lt;/li&gt;
 &lt;li&gt;Wancheng Liu&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;alumni:731ebc0680d7a3aa4fbd187d19e5b899&#34;&gt;Alumni&lt;/h2&gt;
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://shenwei.me&#34;&gt;Wei Shen&lt;/a&gt;, Email: shenwei356(at)gmail.com&lt;/li&gt;
@@ -97,7 +97,7 @@
       <guid>/publications/</guid>
       <description>
 
-&lt;h2 id=&#34;2013:480c4de99851329b51acecc000e2e84f&#34;&gt;2013&lt;/h2&gt;
+&lt;h2 id=&#34;2013&#34;&gt;2013&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Ming Chen, Hongwei Cao, Yuanfeng Zhu, Jiang Zheng, Hong Zhoub.
@@ -106,7 +106,7 @@
 &lt;a href=&#34;http://dx.doi.org/10.1016/j.micinf.2012.10.008&#34;&gt;doi: 10.1016/j.micinf.2012.10.008&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2012:480c4de99851329b51acecc000e2e84f&#34;&gt;2012&lt;/h2&gt;
+&lt;h2 id=&#34;2012&#34;&gt;2012&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Wei Shen, Ming Chen, Guo Wei, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
@@ -120,7 +120,7 @@
 &lt;a href=&#34;http://dx.doi.org/10.1128/JB.00804-12&#34;&gt;doi: 10.1128/JB.00804-12&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2011:480c4de99851329b51acecc000e2e84f&#34;&gt;2011&lt;/h2&gt;
+&lt;h2 id=&#34;2011&#34;&gt;2011&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Hongwei Cao, Ning Wang, Yang Xiang, Yongling Lu, Kecen Zhao, Jiang Zheng, Hong Zhou.
@@ -129,7 +129,7 @@
 &lt;a href=&#34;http://dx.doi.org/10.1016/j.vaccine.2010.10.042&#34;&gt;doi: 10.1016/j.vaccine.2010.10.042&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2010:480c4de99851329b51acecc000e2e84f&#34;&gt;2010&lt;/h2&gt;
+&lt;h2 id=&#34;2010&#34;&gt;2010&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Dake Zhang, Jian Chen, Libin Deng, Qing Mao, Jiang Zheng, Jun Wu, ChangqingZeng, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
@@ -143,7 +143,7 @@
 &lt;a href=&#34;http://dx.doi.org/10.1016/j.enzmictec.2009.10.010&#34;&gt;doi: 10.1016/j.enzmictec.2009.10.010&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2005:480c4de99851329b51acecc000e2e84f&#34;&gt;2005&lt;/h2&gt;
+&lt;h2 id=&#34;2005&#34;&gt;2005&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Chunqing Luo, &lt;strong&gt;Yan Li (co-first)&lt;/strong&gt;, Xiaowei Zhang, Yilin Zhang, Haiqing Zhang, Chong Chen, Zuyuan Xu, Peng Cui, Songnian Hu, Huanming Yang, Wei Dong.
@@ -152,7 +152,7 @@ Sci China C Life Sci. 2005 Feb;48(1):34-40.
 &lt;a href=&#34;http://www.ncbi.nlm.nih.gov/pubmed/15844355&#34;&gt;PMID: 15844355&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2004:480c4de99851329b51acecc000e2e84f&#34;&gt;2004&lt;/h2&gt;
+&lt;h2 id=&#34;2004&#34;&gt;2004&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Chunqing Luo, Wei Li, Zuyuan Xu, Chengqing Zeng, Shenli Bi, Jun Yu, Jun Wu, Huanming Yang.
@@ -171,11 +171,11 @@ Sci China C Life Sci. 2005 Feb;48(1):34-40.
       <guid>/about/</guid>
       <description>
 
-&lt;h2 id=&#34;welcome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Welcome&lt;/h2&gt;
+&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
 
 &lt;p&gt;Hi, welcome to our lab site.&lt;/p&gt;
 
-&lt;h2 id=&#34;address:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Address&lt;/h2&gt;
+&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;
 
 &lt;p&gt;Medical Research Center, Southwest Hospital,
 Third Military Medical University, Chongqing 400038, China.&lt;/p&gt;
