@@ -1,201 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yan Li Lab</title>
+    <title>Yan Li Lab on Yan Li Lab</title>
     <link>https://yanlilab.github.io/</link>
-    <description>Recent content on Yan Li Lab</description>
+    <description>Recent content in Yan Li Lab on Yan Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <copyright>2016-2017 &lt;Yan Li&gt;</copyright>
     <lastBuildDate>Fri, 04 Dec 2015 12:51:11 +0800</lastBuildDate>
-    <atom:link href="https://yanlilab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Softwares</title>
-      <link>https://yanlilab.github.io/softwares/</link>
-      <pubDate>Fri, 04 Dec 2015 12:51:11 +0800</pubDate>
       
-      <guid>https://yanlilab.github.io/softwares/</guid>
-      <description>
-
-&lt;h2 id=&#34;fastcov&#34;&gt;Fastcov&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://yanlilab.github.io/fastcov/&#34; target=&#34;_blank&#34;&gt;Fastcov&lt;/a&gt; - A novel algorithm for detecting multiple covariance and clustering of biological sequences.&lt;/p&gt;
-
-&lt;h2 id=&#34;fommir&#34;&gt;FOMmiR&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bioinf.shenwei.me/fommir&#34; target=&#34;_blank&#34;&gt;FOMmiR&lt;/a&gt; - MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern.&lt;/p&gt;
-
-&lt;h2 id=&#34;seqkit&#34;&gt;SeqKit&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shenwei356.github.io/seqkit&#34; target=&#34;_blank&#34;&gt;Seqkit&lt;/a&gt; - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>index</title>
-      <link>https://yanlilab.github.io/</link>
-      <pubDate>Fri, 04 Dec 2015 12:30:49 +0800</pubDate>
       
-      <guid>https://yanlilab.github.io/</guid>
-      <description></description>
-    </item>
     
-    <item>
-      <title>Members</title>
-      <link>https://yanlilab.github.io/members/</link>
-      <pubDate>Fri, 04 Dec 2015 12:29:17 +0800</pubDate>
       
-      <guid>https://yanlilab.github.io/members/</guid>
-      <description>
-
-&lt;h2 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/yan-li-391885b&#34;&gt;Yan Li&lt;/a&gt;, Professor. Email: liyan.com(at)gmail.com&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;current-members&#34;&gt;Current Members&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Xuejiao Yang&lt;/li&gt;
-&lt;li&gt;Wancheng Liu&lt;/li&gt;
-&lt;li&gt;Juan Liu&lt;/li&gt;
-&lt;li&gt;Yuling Liyang&lt;/li&gt;
-&lt;li&gt;Kecen Zhao&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://shenwei.me&#34;&gt;Wei Shen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ming Cheng&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Projects</title>
-      <link>https://yanlilab.github.io/projects/</link>
-      <pubDate>Fri, 04 Dec 2015 12:26:38 +0800</pubDate>
       
-      <guid>https://yanlilab.github.io/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://yanlilab.github.io/publications/</link>
-      <pubDate>Fri, 04 Dec 2015 12:26:21 +0800</pubDate>
-      
-      <guid>https://yanlilab.github.io/publications/</guid>
-      <description>
-
-&lt;h2 id=&#34;2016&#34;&gt;2016&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Wei Shen, Shuai Le, &lt;strong&gt;Yan Li&lt;/strong&gt;*, Fuquan Hu*.
-&lt;strong&gt;SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation&lt;/strong&gt;.
-&lt;em&gt;PLOS ONE&lt;/em&gt;. 2016; 11(10): e0163962; &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0163962&#34;&gt;doi:10.1371/journal.pone.0163962&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Wei Shen, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
-&lt;strong&gt;A novel algorithm for detecting multiple covariance and clustering of biological sequences&lt;/strong&gt;.
-&lt;em&gt;Sci. Rep&lt;/em&gt;. 2016; 6, 30425; &lt;a href=&#34;https://doi.org/10.1038/srep30425&#34;&gt;doi:10.1038/srep30425&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Ying Cai, Ning Wang, Xiaomei Wu, Kai Zheng, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
-&lt;strong&gt;Compensatory variances of drug-induced hepatitis B virus YMDD mutations&lt;/strong&gt;.
-&lt;em&gt;SpringerPlus&lt;/em&gt;. 2016; 5:1340; &lt;a href=&#34;https://doi.org/10.1186/s40064-016-3003-x&#34;&gt;doi:10.1186/s40064-016-3003-x&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2013&#34;&gt;2013&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Ming Chen, Hongwei Cao, Yuanfeng Zhu, Jiang Zheng, Hong Zhou.
-&lt;strong&gt;Extraordinary GU-rich single-strand RNA identified from SARS coronavirus contributes an excessive innate immune response.&lt;/strong&gt;
-&lt;em&gt;Microbes Infect&lt;/em&gt;. 2013 Feb;15(2):88-95.
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.micinf.2012.10.008&#34;&gt;doi: 10.1016/j.micinf.2012.10.008&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2012&#34;&gt;2012&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Wei Shen, Ming Chen, Guo Wei, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
-&lt;strong&gt;MicroRNA prediction using a fixed-order Markov model based on the secondary structure pattern&lt;/strong&gt;.
-&lt;em&gt;PLoS One&lt;/em&gt;. 2012;7(10):e48236.
-&lt;a href=&#34;http://dx.doi.org/10.1371/journal.pone.0048236&#34;&gt;doi: 10.1371/journal.pone.0048236&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Ying Guo, Haiying Wang, &lt;strong&gt;Yan Li (co-first)&lt;/strong&gt;, Yang Song, Chen Chen, Yaling Liao, Li Ren, Chunliang Guo, Wende Tong, Wei Shen, Ming Chen, Xuhu Mao, Gang Guo and Quanming Zou.
-&lt;strong&gt;Genome of helicobacter pylori strain XZ274, an isolate from a Tibetan patient with gastric cancer in China&lt;/strong&gt;.
-&lt;em&gt;J Bacteriol&lt;/em&gt;. 2012 Aug;194(15):4146-7.
-&lt;a href=&#34;http://dx.doi.org/10.1128/JB.00804-12&#34;&gt;doi: 10.1128/JB.00804-12&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2011&#34;&gt;2011&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Hongwei Cao, Ning Wang, Yang Xiang, Yongling Lu, Kecen Zhao, Jiang Zheng, Hong Zhou.
-&lt;strong&gt;A novel antagonist of TLR9 blocking all classes of immunostimulatory CpG-ODNs&lt;/strong&gt;.
-&lt;em&gt;Vaccine&lt;/em&gt;. 2011 Mar 3;29(11):2193-8.
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.vaccine.2010.10.042&#34;&gt;doi: 10.1016/j.vaccine.2010.10.042&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2010&#34;&gt;2010&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Dake Zhang, Jian Chen, Libin Deng, Qing Mao, Jiang Zheng, Jun Wu, ChangqingZeng, &lt;strong&gt;Yan Li&lt;/strong&gt;*.
-&lt;strong&gt;Evolutionary selection associated with the multi-function of overlapping genes in the hepatitis B virus&lt;/strong&gt;.
-&lt;em&gt;Infect Genet Evol&lt;/em&gt;. 2010 Jan;10(1):84-8.
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.meegid.2009.10.006&#34;&gt;doi: 10.1016/j.meegid.2009.10.006&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Xiaomei Hu, &lt;strong&gt;Yan Li (co-first)&lt;/strong&gt;, Ming Jia, Weizhong Sun, Jianjun Huang, Guo Wei, Yuanshu Chen, Xiancai Rao, Fuquan Hu.
-&lt;strong&gt;Identification of Pseudomonas bacteriophage PaP3 lysozyme&lt;/strong&gt;.
-&lt;em&gt;Enzyme Microb. Technol&lt;/em&gt;. (46) 268–271, 2010.
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.enzmictec.2009.10.010&#34;&gt;doi: 10.1016/j.enzmictec.2009.10.010&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2005&#34;&gt;2005&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Chunqing Luo, &lt;strong&gt;Yan Li (co-first)&lt;/strong&gt;, Xiaowei Zhang, Yilin Zhang, Haiqing Zhang, Chong Chen, Zuyuan Xu, Peng Cui, Songnian Hu, Huanming Yang, Wei Dong.
-&lt;strong&gt;DNA sequence comparative analysis of the 3pter-p26 region of human genome&lt;/strong&gt;.
-Sci China C Life Sci. 2005 Feb;48(1):34-40.
-&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/pubmed/15844355&#34;&gt;PMID: 15844355&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2004&#34;&gt;2004&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Yan Li&lt;/strong&gt;, Chunqing Luo, Wei Li, Zuyuan Xu, Chengqing Zeng, Shenli Bi, Jun Yu, Jun Wu, Huanming Yang.
-&lt;strong&gt;Structure-based preliminary analysis of immunity and virulence of SARS coronavirus.&lt;/strong&gt;
-&lt;em&gt;Viral Immunol&lt;/em&gt;. 2004;17(4):528-34.
-&lt;a href=&#34;http://dx.doi.org/10.1089/vim.2004.17.528&#34;&gt;doi: 10.1089/vim.2004.17.528&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://yanlilab.github.io/about/</link>
-      <pubDate>Fri, 04 Dec 2015 12:25:56 +0800</pubDate>
-      
-      <guid>https://yanlilab.github.io/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;Yan Li’s lab focuses on following fields:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diseases genomics&lt;/li&gt;
-&lt;li&gt;Bioinformatics&lt;/li&gt;
-&lt;li&gt;Infection and immunology&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;
-
-&lt;p&gt;Medical Research Center, Southwest Hospital,
-Third Military Medical University, Chongqing 400038, China.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
