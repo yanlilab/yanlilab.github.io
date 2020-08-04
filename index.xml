@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yan Li Lab on Yan Li Lab</title>
     <link>https://yanlilab.github.io/</link>
     <description>Recent content in Yan Li Lab on Yan Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>2016-2017 &lt;Yan Li&gt;</copyright>
+    <managingEditor>liyan.com@gmail.com (Yan Li)</managingEditor>
+    <webMaster>liyan.com@gmail.com (Yan Li)</webMaster>
     <lastBuildDate>Fri, 04 Dec 2015 12:51:11 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-      
-    
-      
     
       
     

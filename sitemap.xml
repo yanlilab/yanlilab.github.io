@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://yanlilab.github.io/softwares/</loc>
@@ -7,13 +8,9 @@
   </url>
   
   <url>
-    <loc>https://yanlilab.github.io/members/</loc>
-    <lastmod>2015-12-04T12:29:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yanlilab.github.io/publications/</loc>
-    <lastmod>2015-12-04T12:26:21+08:00</lastmod>
+    <loc>https://yanlilab.github.io/</loc>
+    <lastmod>2015-12-04T12:51:11+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,12 +20,6 @@
   
   <url>
     <loc>https://yanlilab.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yanlilab.github.io/</loc>
-    <lastmod>2015-12-04T12:51:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
